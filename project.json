@@ -2,12 +2,12 @@
   "name": "Certified_Professional",
   "projectId": "f4773ce9-befb-4717-b91f-4dead5ef5131",
   "description": "UiPath Certified Professional  Automation Developer Professional Pratice",
-  "main": "Main.xaml",
+  "main": "CV_Pratice.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.5]",
     "UiPath.Mail.Activities": "[1.23.11]",
     "UiPath.PDF.Activities": "[3.11.0]",
-    "UiPath.System.Activities": "[23.10.6]",
+    "UiPath.System.Activities": "25.2.4",
     "UiPath.UIAutomation.Activities": "23.10.6"
   },
   "webServices": [],
@@ -49,8 +49,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "916ac1e4-bfbb-444a-9cb8-41b21b6ca1c8",
+      "filePath": "CV_Pratice.xaml",
+      "uniqueId": "6d52d61e-a8d9-4a23-9457-52c8178ecc95",
       "input": [],
       "output": []
     }
